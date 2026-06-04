@@ -1,0 +1,12 @@
+.location-containeri{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.images img{
+    width: 700px;
+    height: 550px;
+}
